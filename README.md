@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um projeto frontend de um site para perfis de viagens.
 
-Para acessar o site online clique [AQUI](#)
+Para acessar o site online clique [AQUI](https://lucasoliveira35.github.io/projeto-travelgram/)
 
 ## 🔖 Layout
 
