@@ -18,7 +18,7 @@ Website de uma página que contém um perfil de viagens.
 <br>
 
 <p align="center">
-  <img alt="Imagem do projeto Travelgram" src=".github/layout_travelgram.PNG" width="100%">
+  <img alt="Imagem do projeto Travelgram" src=".github/layout_travelgram.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
